@@ -1,0 +1,6 @@
+ START
+ TIA 1
+ AIA B
+ AO
+ RET
+ END

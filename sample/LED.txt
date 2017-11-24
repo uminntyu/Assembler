@@ -1,0 +1,8 @@
+ START
+ TIY 0
+ MA
+ AO
+ RET
+ DC 3
+ DC A
+ END
